@@ -7,18 +7,18 @@ description: My CEAMLS SAIRI Summer Research Site
 motto: "Life a quartermile at a time."
 
 quick_facts:
-  - "🎓 JSenior, Computer Science"
+  - "🎓 Senior, Computer Science."
   - "🔬 Interested in A.I and robotics."
-  - "📍 Based in Columbia, MD"
-  - "🚀 Reading enthusiast"
+  - "📍 Based in Columbia, MD."
+  - "🚀 Reading enthusiast."
 
-linkedin: https://www.linkedin.com/in/example
+LinkedIn: https://www.linkedin.com/in/example
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "The Design of Everyday Things — Don Norman."
   - label: Building
     text: "A small Raspberry Pi sensor logging dashboard"
   - label: Wondering
