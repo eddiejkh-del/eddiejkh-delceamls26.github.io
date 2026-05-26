@@ -35,6 +35,6 @@ grad_mentor:
   linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
-  name:Dr. Xiaowen Li
+  name: Dr. Xiaowen Li
   linkedin: https://www.linkedin.com/in/example
 ---
