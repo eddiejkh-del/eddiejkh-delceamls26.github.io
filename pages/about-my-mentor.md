@@ -16,7 +16,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Xiaowen Li
   title: Director of the Climate Science Division, Climate Science, School of Computer, Mathematics & Natural Sciences.
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/Dr. Li.jpg
   website: https://example.com/pat-nguyen
   bio: |
     Dr. Xiaowen currently serves as the Director of the Climate Science Division in the School of Computer, Mathematics & Natural Sciences. She earned her bachelor’s degree in Atmospheric Sciences from Peking University, followed by a PhD in Geophysical Sciences from the University of Chicago. Dr. Li subsequently joined NASA Goddard Space Flight Center in Greenbelt, MD as a postdoc, and eventually ascending to a Senior Research Scientist affiliated with Morgan State University. She joined Climate Science Division at Morgan in Fall 2022.
