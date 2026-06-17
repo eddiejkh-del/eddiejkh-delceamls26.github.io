@@ -4,10 +4,10 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
-  image: /assets/images/profile.svg
-  linkedin: https://www.linkedin.com/in/example
+  name: Eddie King- Hedgspeth
+  role: Senior, Electrical engineering
+  image: assets/images/image (1).png
+  linkedin: https://www.linkedin.com/in/eddie-king-hedgspeth/ 
   bio: |
     Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
@@ -19,18 +19,15 @@ about:
     side projects with friends.
 
   hobbies:
-    - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
-    - icon: 🚲
-      title: Biking
-      description: Weekend trail rides are how I reset.
+    - icon: 🔬
+      title: Research
+      description:  Interested in A.I and robotics.
     - icon: 📚
       title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      description: Sci-fi novels and manga/ Comics — both equally inspiring.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: assets/images/image (1).png
       caption: A great day on the trail.
     - image: /assets/images/gallery-2.svg
       caption: One of my recent illustrations.
