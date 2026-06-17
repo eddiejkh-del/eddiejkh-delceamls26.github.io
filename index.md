@@ -12,8 +12,8 @@ quick_facts:
   - "📍 Based in Columbia, MD."
   - "🚀 Reading enthusiast."
 
-LinkedIn: https://www.linkedin.com/in/example
-image: /assets/images/profile.svg
+LinkedIn: https://www.linkedin.com/in/eddie-king-hedgspeth/ 
+image: assets/images/image (1).png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
