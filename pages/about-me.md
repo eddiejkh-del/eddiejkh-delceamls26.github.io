@@ -29,7 +29,7 @@ about:
   gallery:
     - image: assets/images/image (1).png
       caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
+    - image: assets/images/5b343956-35e0-4624-accc-b6865e061762.png
       caption: One of my recent illustrations.
     - image: /assets/images/gallery-3.svg
       caption: Hanging out with friends after class.
