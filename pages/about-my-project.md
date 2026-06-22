@@ -26,5 +26,5 @@ grad_mentor:
 
 faculty_mentor:
   name: Dr. Xiaowen Li
-  Morgan State University: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
+  linkedin: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
 ---
