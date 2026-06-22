@@ -22,9 +22,9 @@ final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
   name: Rokeya Siddiqua
-  linkedin: https://www.linkedin.com/in/example
+  linkedin: https://www.linkedin.com/in/rokeya-siddiqua-91b68318b/
 
 faculty_mentor:
   name: Dr. Xiaowen Li
-  linkedin: https://www.linkedin.com/in/example
+  Morgan State University: https://www.morgan.edu/climate-science/faculty-and-staff/xiaowen-li
 ---
